@@ -1,0 +1,11 @@
+OOP:
+-Encapsulation
+-Inheritance
+Abstraction
+-Polymorphisim
+
+
+class: blueprint, general description of objects, templates
+
+        *variables/proporties/feature
+object itself, concrete, real
